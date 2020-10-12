@@ -17,7 +17,8 @@ public class BallController : MonoBehaviour
     {
         //シーン中のGameOverTextオブジェクトを取得
         this.gameoverText = GameObject.Find("GameOverText");
-        this.gameoverText = GameObject.Find("Score Text");
+        
+
     }
 
     // Update is called once per frame
