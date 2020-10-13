@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class BrighrnwssRegulator : MonoBehaviour
 {
+
     //materialを入れる
     Material myMaterial;
 
